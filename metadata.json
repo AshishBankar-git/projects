@@ -1,0 +1,6 @@
+{
+  "name": "Clinic Reception Assistant",
+  "description": "Clinic management app for patient registration, digital case papers, appointment booking, doctor schedules, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
